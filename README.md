@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align=center>
 
-<!--
-**RieleyDechenne/RieleyDechenne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Rieley Dechenne
 
-Here are some ideas to get you started:
+***CS Student @ Gonzaga University***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/rieley-dechenne-805712267)
+
+</div>
+
+## About Me
+
+- 🎓 ***Education:*** Studying Computer Science at **Gonzaga University**, concentrating in **Software Application Development** with a minor in **Software Security**.  
+- 💼 ***Education:*** Previously earned an AA in **Business Management** from Spokane Falls Community College.
+- 🏗️ ***Building:*** A website for my own small business, a bait company I run, where I pour my own soft plastics and airbrush hardbaits. 
+- 🎣 ***Hobbies:*** I actually touch grass, believe it or not, and compete in local bass fishing tournaments.
+- 🤝 ***Open to:*** Internships, Full-Time, collaboration on student or open-source projects, and conversations about potential partnerships!
+
+## Stats
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=RieleyDechenne&theme=gotham&hide_border=false)
+
+## Tech Stack
+**Languages:** Python, Java, C/C++, MySQL, HTML/CSS, Kotlin
+
+**Frameworks & Tools:** PostgreSQL, Java Swing, Git
